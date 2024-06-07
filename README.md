@@ -1,1 +1,1 @@
-# camstar
+# data-entry-survey-camstar
